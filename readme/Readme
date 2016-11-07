@@ -1,0 +1,4 @@
+Step 1: Download the project SampleGitty
+Step 2: GO to Command prompt and go the folder where the project SampleGitty is present
+Step 3:Go to SampleGitty
+Step 4: Enter the command java -cp bin;jars/* org.testng.TestNg testng.xml
